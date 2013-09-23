@@ -9,3 +9,5 @@ Projects created in C++ using OpenGL unless otherwise stated
                - Creates a basic drawing of a square with my name in the center
   Assignment 2 - U-shape.cpp, cone.cpp
                - Implements a U - like shape with a triangle strip and a cone with triangles and an ellipse
+  Assignment 3 - DrawingCanvas.cpp
+               - Creates a simple drawing program with capability to draw simple shapes, change colors, and some other features
